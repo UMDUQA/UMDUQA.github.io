@@ -30,7 +30,8 @@ __Secretary__: Argen Detoito
 __Communications Officers__: Hannah Kim
 
 __Officers__: Dhruv Srinivasan, Neha Narayan, Aaron Gorbaty, Jacob Cigliano, Nick Mann, Hannah McCright, Nathan Constantinides
-Faculty Advisor: Donna Hammer
+
+__Faculty Advisor__: Donna Hammer
 
 Want to keep in touch with us?
 We post our announcements in the UQA Discord server about meetings, events, opportunities, and more! Join our Discord by using [this link](https://discord.gg/qtqcAjhRVP).
