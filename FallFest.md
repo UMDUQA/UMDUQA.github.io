@@ -13,7 +13,7 @@ Please register by [date]. See this Google Form:
 # Event Schedule (Tentative)
 
 ## Friday Oct 28, 4 pm - 7 pm
-04:00 pm - Openning and Welcoming Ceremony
+04:00 pm - Openning and Welcoming Ceremony.
 05:00 pm - Ice-Breaking and Team-Building Activity
 06:00 pm - Keynote Speaker: TBA
 07:00 pm - Dinner
