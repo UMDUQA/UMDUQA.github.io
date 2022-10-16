@@ -43,8 +43,6 @@ Please register HERE by Oct 26.
 
 10:00 am - Workshop: TBA
 
-11:00 am - Finish up Coding and Submit for awards
-
 12:00 pm - Closing Ceremony
 
 01:00 pm - Lunch 
