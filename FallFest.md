@@ -5,7 +5,7 @@ title: Fall Fest 2022
 
 # UQA x IBM Qiskit Fall Fest
 
-[IBM Qiskit]{https://qiskit.org/events/fall-fest/} Fall Fest is a series of Quantum Computing events organized by students and sponsored by IBM Quantum. As part of the 2022 Fall Fest, the Undergraduate Quantum Association is hosting a weekend full of quantum programming, workshops, speakers, and more! Come work on quantum computing challenges with others. No prior experience necessary!
+[IBM Qiskit](https://qiskit.org/events/fall-fest/) Fall Fest is a series of Quantum Computing events organized by students and sponsored by IBM Quantum. As part of the 2022 Fall Fest, the Undergraduate Quantum Association is hosting a weekend full of quantum programming, workshops, speakers, and more! Come work on quantum computing challenges with others. No prior experience necessary!
 
 ## Goal
 The goal of the UQA fall fest is to create a community to learn quantum computing togather by completing the Qiskit Jupyter notebooks presented in IBM Quantum Explorer program. UQA Fall Fest is creating the space for everyone who is interested to team up and work on these notebooks together. Prizes will be given for groups who finishes the most notebooks! To support you while working, UQA is providing QisKit workshops, mentorship, snacks and meals! 
