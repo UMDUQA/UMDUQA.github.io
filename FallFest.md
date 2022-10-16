@@ -17,7 +17,7 @@ Please register HERE by Oct 26.
 
 ## Friday Oct 28, 4 pm - 7 pm
 
-04:00 pm - Openning and Welcoming Ceremony
+04:00 pm - Openning Ceremony
 
 05:00 pm - Ice-Breaking and Team-Building Activity
 
