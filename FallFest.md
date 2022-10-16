@@ -19,7 +19,7 @@ Please register HERE by Oct 26.
 
 04:00 pm - Openning Ceremony
 
-05:00 pm - Ice-Breaking and Team-Building Activity
+05:00 pm - Social Activity: Team-Building
 
 06:00 pm - Keynote Speaker: TBA
 
@@ -42,6 +42,8 @@ Please register HERE by Oct 26.
 ## Sunday 10 am - 2 pm
 
 10:00 am - Workshop: TBA
+
+11:00 am - Finish up Coding and Submit for awards
 
 12:00 pm - Closing Ceremony
 
