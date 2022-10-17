@@ -35,7 +35,7 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 - 04:00 pm - Coding Time !
 
-- 06:00 pm - Speaker: Dr. Avik Dutt on Photonic Qauntum Computing
+- 06:00 pm - Speaker: Dr. Avik Dutt on Photonic Quantum Computing
 
 - 07:00 pm - Dinner
 
