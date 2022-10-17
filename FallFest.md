@@ -15,34 +15,34 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 # Event Schedule (Tentative)
 
-#### Friday Oct 28th, 4 pm - 7 pm
+<ins>**Friday Oct 28th, 4 pm - 7 pm**</ins>
 
-04:00 pm - Openning Ceremony
+- 04:00 pm - Openning Ceremony
 
-05:00 pm - Social Activity: Team-Building
+- 05:00 pm - Social Activity: Team-Building
 
-06:00 pm - Keynote Speaker: TBA
+- 06:00 pm - Keynote Speaker: TBA
 
-07:00 pm - Dinner
+- 07:00 pm - Dinner
 
-#### Saturday Oct 29th 10 am - 2 pm
+<ins>**Saturday Oct 29th 10 am - 2 pm**<ins>
 
-10:00 am - Workshop: Intro to Quantum Computing and Qiskit
+- 10:00 am - Workshop: Intro to Quantum Computing and Qiskit
 
-12:00 pm - Coding Time !
+- 12:00 pm - Coding Time !
 
-03:00 pm - Social Activity: Play Quantum Chess!
+- 03:00 pm - Social Activity: Play Quantum Chess!
 
-04:00 pm - Coding Time !
+- 04:00 pm - Coding Time !
 
-06:00 pm - Speaker: Dr. Avik Dutt on Photonic Qauntum Computing
+- 06:00 pm - Speaker: Dr. Avik Dutt on Photonic Qauntum Computing
 
-07:00 pm - Dinner
+- 07:00 pm - Dinner
 
-#### Sunday Oct 30th 10 am - 2 pm
+<ins>**Sunday Oct 30th 10 am - 2 pm**<ins>
 
-10:00 am - Workshop: TBA
+- 10:00 am - Workshop: TBA
 
-12:00 pm - Closing Ceremony
+- 12:00 pm - Closing Ceremony
 
-01:00 pm - Lunch 
+- 01:00 pm - Lunch 
