@@ -15,9 +15,7 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 # Event Schedule (Tentative)
 
-The schedule for the weekend is listed below:
-
-### Friday Oct 28th, 4 pm - 7 pm
+#### Friday Oct 28th, 4 pm - 7 pm
 
 04:00 pm - Openning Ceremony
 
@@ -27,7 +25,7 @@ The schedule for the weekend is listed below:
 
 07:00 pm - Dinner
 
-### Saturday Oct 29th 10 am - 2 pm
+#### Saturday Oct 29th 10 am - 2 pm
 
 10:00 am - Workshop: Intro to Quantum Computing and Qiskit
 
@@ -41,7 +39,7 @@ The schedule for the weekend is listed below:
 
 07:00 pm - Dinner
 
-### Sunday Oct 30th 10 am - 2 pm
+#### Sunday Oct 30th 10 am - 2 pm
 
 10:00 am - Workshop: TBA
 
