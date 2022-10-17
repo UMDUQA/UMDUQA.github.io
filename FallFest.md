@@ -17,7 +17,7 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 <ins>**Friday Oct 28th, 4 pm - 7 pm**</ins>
 
-- 04:00 pm - Openning Ceremony
+- 04:00 pm - Opening Ceremony
 
 - 05:00 pm - Social Activity: Team-Building
 
