@@ -11,7 +11,7 @@ UQA Fall Fest is going to take place Friday to Sunday, October 28th - 30th, in-p
 The goal of the UQA fall fest is to create a community to learn quantum computing togather by completing the Qiskit Jupyter notebooks presented in IBM Quantum Explorer program. UQA Fall Fest is creating the space for everyone who is interested to team up and work on these notebooks together. Prizes will be given for groups who finishes the most notebooks! To support you while working, UQA is providing QisKit workshops, mentorship, snacks and meals! 
 
 # Registration
-Please register[HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37xpdLzEaIZbblk6ZrReKTB4jKVtvijJBoyw/viewform) by Oct 26.
+Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37xpdLzEaIZbblk6ZrReKTB4jKVtvijJBoyw/viewform) by Oct 26.
 
 # Event Schedule (Tentative)
 
