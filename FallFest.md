@@ -23,6 +23,7 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 - 06:00 pm - Keynote Speaker: TBA
 
+
 <ins>**Saturday Oct 29th 10 am - 2 pm**<ins>
 
 - 10:00 am - Workshop: Intro to Quantum Computing and Qiskit
@@ -37,8 +38,11 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 - 07:00 pm - Dinner
 
+
 <ins>**Sunday Oct 30th 10 am - 2 pm**<ins>
 
 - 10:00 am - Workshop: TBA
 
 - 12:00 pm - Closing Ceremony
+
+  
