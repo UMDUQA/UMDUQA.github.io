@@ -3,7 +3,7 @@ layout: page
 title: UQA x IBM Qiskit Fall Fest 2022
 ---
 
-[IBM Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) is a series of Quantum Computing events organized by students and sponsored by IBM Quantum. As part of the 2022 Fall Fest, the Undergraduate Quantum Association(https://umdphysics.umd.edu/academics/ugrad-student-opportunities/undergraduate-quantum-association.html) is hosting a weekend full of quantum programming, workshops, speakers, and more! Come work on quantum computing challenges with others. No prior experience necessary! 
+[IBM Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) is a series of Quantum Computing events organized by students and sponsored by IBM Quantum. As part of the 2022 Fall Fest, the [Undergraduate Quantum Association](https://umdphysics.umd.edu/academics/ugrad-student-opportunities/undergraduate-quantum-association.html) is hosting a weekend full of quantum programming, workshops, speakers, and more! Come work on quantum computing challenges with others. No prior experience necessary! 
 
 UQA Fall Fest is going to take place Friday to Sunday, October 28th - 30th, in-person, on-campus at the University of Maryland.
 
