@@ -15,6 +15,8 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 # Event Schedule (Tentative)
 
+Location: TBA
+
 <ins>**Friday Oct 28th, 4 pm - 7 pm**</ins>
 
 - 04:00 pm - Opening Ceremony
