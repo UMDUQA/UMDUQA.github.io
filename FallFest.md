@@ -26,7 +26,7 @@ Location: TBA
 - 06:00 pm - Keynote Speaker: TBA
 
 
-<ins>**Saturday Oct 29th 10 am - 8 pm**<ins>
+<ins>**Saturday Oct 29th 10 am - 8 pm**</ins>
 
 - 10:00 am - Workshop: Intro to Quantum Computing and Qiskit
 
@@ -41,7 +41,7 @@ Location: TBA
 - 07:00 pm - Dinner
 
 
-<ins>**Sunday Oct 30th 10 am - 2 pm**<ins>
+<ins>**Sunday Oct 30th 10 am - 1 pm**</ins>
 
 - 10:00 am - Workshop: TBA
 
