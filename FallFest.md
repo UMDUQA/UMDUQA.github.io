@@ -30,21 +30,25 @@ Location: TBA
 
 - 10:00 am - Workshop: Intro to Quantum Computing and Qiskit
 
-- 12:00 pm - Coding Time !
+- 12:00 pm - Coding Time
 
 - 03:00 pm - Social Activity: Play Quantum Chess!
 
-- 04:00 pm - Coding Time !
+- 04:00 pm - Coding Time
 
 - 06:00 pm - Speaker: Dr. Avik Dutt on Photonic Quantum Computing
 
 - 07:00 pm - Dinner
 
 
-<ins>**Sunday Oct 30th 10 am - 1 pm**</ins>
+<ins>**Sunday Oct 30th 10 am - 3 pm**</ins>
 
-- 10:00 am - Workshop: TBA
+- 10:00 am - Workshop: Quantum Internet and Cybersecurity with Dr. Franz Klein
 
-- 12:00 pm - Closing Ceremony
+- 12:00 pm - Coding Time: Finish up your notebooks and submit
+
+- 2:00 pm - Submission Deadline 
+
+- 2:00 pm - Closing Ceremony
 
   
