@@ -17,13 +17,14 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 Location: TBA
 
-<ins>**Friday Oct 28th, 4 pm - 7 pm**</ins>
+<ins>**Friday Oct 28th, 4 pm - 7:30 pm**</ins>
 
 - 04:00 pm - Opening Ceremony
 
-- 05:00 pm - Social Activity: Team-Building
+- 05:30 pm - Keynote Speaker: TBA
 
-- 06:00 pm - Keynote Speaker: TBA
+- 06:30 pm - Social Activity: Team-Building
+
 
 
 <ins>**Saturday Oct 29th 10 am - 8 pm**</ins>
