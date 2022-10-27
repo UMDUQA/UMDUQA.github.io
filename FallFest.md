@@ -15,13 +15,13 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 # Event Schedule (Tentative)
 
-Location: TBA
+Location: Physical Science Complex Lobby
 
 <ins>**Friday Oct 28th, 4 pm - 7:30 pm**</ins>
 
 - 04:00 pm - Opening Ceremony
 
-- 05:30 pm - Keynote Speaker: TBA
+- 05:30 pm - Keynote Speaker: Cori Williams from IonQ
 
 - 06:30 pm - Social Activity: Team-Building
 
