@@ -17,7 +17,7 @@ Please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc5k1j8P4hTBo37x
 
 Location: Physical Science Complex Lobby
 
-<ins>**Friday Oct 28th, 4 pm - 7:30 pm**</ins>
+<ins>**Friday Oct 28th, 4 pm - 7:00 pm**</ins>
 
 - 04:00 pm - Opening Ceremony
 
