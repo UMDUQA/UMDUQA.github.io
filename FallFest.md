@@ -21,9 +21,9 @@ Location: Physical Science Complex Lobby
 
 - 04:00 pm - Opening Ceremony
 
-- 05:30 pm - Keynote Speaker: Cori Williams from IonQ
+- 05:00 pm - Keynote Speaker: **Cori Williams** from IonQ
 
-- 06:30 pm - Social Activity: Team-Building
+- 06:00 pm - Social Activity: Team-Building
 
 
 
@@ -37,14 +37,14 @@ Location: Physical Science Complex Lobby
 
 - 04:00 pm - Coding Time
 
-- 06:00 pm - Speaker: Dr. Avik Dutt on Photonic Quantum Computing
+- 06:00 pm - Speaker: **Dr. Avik Dutt** on Photonic Quantum Computing
 
 - 07:00 pm - Dinner
 
 
 <ins>**Sunday Oct 30th 10 am - 3 pm**</ins>
 
-- 10:00 am - Workshop: Quantum Internet and Cybersecurity with Dr. Franz Klein
+- 10:00 am - Workshop: Quantum Internet and Cybersecurity with **Dr. Franz Klein**
 
 - 12:00 pm - Coding Time: Finish up your notebooks and submit
 
